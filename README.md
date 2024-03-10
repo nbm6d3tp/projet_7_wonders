@@ -1,4 +1,4 @@
-# I. Idée de simplification
+# Idée de simplification
 
 Nous avons décidé de simplifier notre jeu en apportant quelques modifications et en éliminant certaines fonctionnalités complexes.
 
